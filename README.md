@@ -49,6 +49,7 @@ http://www.oecd.org/redirect/redirect/dataoecd/41/27/46771900.xls
 http://www.oecd-ilibrary.org/taxation/taxation-key-tables-from-oecd_20758510
 http://www.oecd.org/redirect/redirect/document/0,3746,en_2649_201185_46462759_1_1_1_1,00.html
 http://epp.eurostat.ec.europa.eu/portal/page/portal/product_details/publication?p_product_code=KS-DU-13-001
+http://www.pwc.ch/user_content/editor/files/chall_adv/pwc_switzerland-an-excellent-choice_e.pdf
 
 
 Easy to read list tax list: http://en.wikipedia.org/wiki/List_of_countries_by_tax_revenue_as_percentage_of_GDP
