@@ -3,7 +3,12 @@ DeclineoftheState
 
 Study on the long term decline of the State and that deceline's relationship to individual prosperity.
 
-State tax revenue as percentage of GDP vs. real GDP annual growth.
+Study reviewing the long term effects of taxation on growth. 
+http://taxfoundation.org/article/what-evidence-taxes-and-growth
+
+"Of those studies that distinguish between types of taxes, corporate income taxes are found to be most harmful, followed by personal income taxes, consumption taxes and property taxes."
+
+State tax revenue as percentage of GDP vs. real GDP annual growth a snap shot from 2013.
 
 EU Tax Revenue 35.7% / Real GDP Growth 0.5%
 
