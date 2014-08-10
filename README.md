@@ -10,17 +10,27 @@ http://taxfoundation.org/article/what-evidence-taxes-and-growth
 
 State tax revenue as percentage of GDP vs. real GDP annual growth a snap shot from 2013.
 
+**Developed Counties High Tax / Low Growth**
+
 EU Tax Revenue 35.7% / Real GDP Growth 0.5%
 
 USA Tax Revenue 26.9% / Real GDP Growth 1.9%
 
-China Tax Revenue 18% / Real GDP Growth 7.6%
+**Developed Counties Low Tax / High Growth**
 
-India Tax Revenue 17% / Real GDP Growth 4.7%
+United Arab Emirates Tax Revenue 1.4% / Real GDP Growth 4%
 
 Singapore Tax Revenue 14.2% / Real GDP Growth 4.1%
 
+Switzerland Tax Revenue 15.38% / 2.0%
+
 Hong Kong Tax Revenue 13% / Real GDP Growth 2.9%
+
+**Developing Counties Low Tax / High Growth**
+
+China Tax Revenue 18% / Real GDP Growth 7.6%
+
+India Tax Revenue 17% / Real GDP Growth 4.7%
 
 Panama Tax Revenue 10.6% / Real GDP Growth 7.5%
 
